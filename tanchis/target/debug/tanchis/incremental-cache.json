@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "tanchis": {
+      "rootPackageName": "tanchis",
+      "fileNameHash": "1053308329516090855",
+      "timeStamp": 1747738519,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "3233436653925254524",
+  "rootPackageName": "tanchis"
+}
